@@ -1,0 +1,27 @@
+body {
+    background-color:#aacccc;
+}
+h2 {
+    text-align:center;
+    color : #992222;
+    
+}
+#firstBar {
+    font-size: 16px;
+    background-color:#77aaaa;
+    padding:15px;
+    border: 3px solid grey;
+    border-radius:5px;
+}
+input {
+    padding:10px;
+    border-radius:10px;
+    height:15px;
+    width:35px;
+}
+button {
+    font-size:15px;
+    padding:10px;
+    border-radius: 10px;
+    border: 2px solid grey;
+}
